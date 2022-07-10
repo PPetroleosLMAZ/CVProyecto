@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">proyecto CV Mobile APP</string>
+    <string name="ubic">Lima, Peru</string>
+    <string name="celu">+51 910 692 305</string>
+    <string name="dcorr">me@brihanbocanegra.com</string>
+
+    <string name="ui_ux_job">UI/UX job Connector Program</string>
+    <string name="interes">interest</string>
+    <string name="exp">experiencie</string>
+    <string name="back">background</string>
+    <string name="port">portfolio</string>
+</resources>
